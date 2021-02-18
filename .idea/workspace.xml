@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9599de66-7712-48ad-97eb-942c0528dcbb" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Block.py" beforeDir="false" afterPath="$PROJECT_DIR$/Block.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlockChain.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlockChain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,34 +160,46 @@
       <workItem from="1613557989064" duration="403000" />
       <workItem from="1613558425286" duration="5983000" />
       <workItem from="1613566134284" duration="2893000" />
-      <workItem from="1613631333963" duration="1428000" />
+      <workItem from="1613631333963" duration="1514000" />
     </task>
+    <task id="LOCAL-00001" summary="将业务信息类加入区块链中">
+      <created>1613633326928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613633326928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="将业务信息类加入区块链中" />
+    <option name="LAST_COMMIT_MESSAGE" value="将业务信息类加入区块链中" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="313" y="31" key="CommitChangelistDialog2" timestamp="1613566172681">
+    <state x="313" y="31" key="CommitChangelistDialog2" timestamp="1613633326675">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="313" y="31" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1613566172681" />
-    <state width="1398" height="312" key="GridCell.Tab.0.bottom" timestamp="1613631771382">
+    <state x="313" y="31" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1613633326675" />
+    <state width="1398" height="111" key="GridCell.Tab.0.bottom" timestamp="1613633356710">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.25.1440.816@0.25.1440.816" timestamp="1613631771382" />
-    <state width="1398" height="312" key="GridCell.Tab.0.center" timestamp="1613631771382">
+    <state width="1398" height="111" key="GridCell.Tab.0.bottom/0.25.1440.816@0.25.1440.816" timestamp="1613633356710" />
+    <state width="1398" height="111" key="GridCell.Tab.0.center" timestamp="1613633356709">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="312" key="GridCell.Tab.0.center/0.25.1440.816@0.25.1440.816" timestamp="1613631771382" />
-    <state width="1398" height="312" key="GridCell.Tab.0.left" timestamp="1613631771381">
+    <state width="1398" height="111" key="GridCell.Tab.0.center/0.25.1440.816@0.25.1440.816" timestamp="1613633356709" />
+    <state width="1398" height="111" key="GridCell.Tab.0.left" timestamp="1613633356708">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="312" key="GridCell.Tab.0.left/0.25.1440.816@0.25.1440.816" timestamp="1613631771381" />
-    <state width="1398" height="312" key="GridCell.Tab.0.right" timestamp="1613631771382">
+    <state width="1398" height="111" key="GridCell.Tab.0.left/0.25.1440.816@0.25.1440.816" timestamp="1613633356708" />
+    <state width="1398" height="111" key="GridCell.Tab.0.right" timestamp="1613633356709">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="312" key="GridCell.Tab.0.right/0.25.1440.816@0.25.1440.816" timestamp="1613631771382" />
+    <state width="1398" height="111" key="GridCell.Tab.0.right/0.25.1440.816@0.25.1440.816" timestamp="1613633356709" />
     <state x="506" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613633271294">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
