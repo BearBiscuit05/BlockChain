@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9599de66-7712-48ad-97eb-942c0528dcbb" name="默认更改列表" comment="" />
+    <list default="true" id="9599de66-7712-48ad-97eb-942c0528dcbb" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Block.py" beforeDir="false" afterPath="$PROJECT_DIR$/Block.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlockChain.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlockChain.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1obax774zoAuW7jGSgZuIfBsjm5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -151,7 +160,9 @@
       <option name="presentableId" value="Default" />
       <updated>1613557987882</updated>
       <workItem from="1613557989064" duration="403000" />
-      <workItem from="1613558425286" duration="5893000" />
+      <workItem from="1613558425286" duration="5983000" />
+      <workItem from="1613566134284" duration="2893000" />
+      <workItem from="1613631333963" duration="1428000" />
     </task>
     <servers />
   </component>
@@ -159,22 +170,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1613565943644">
+    <state x="313" y="31" key="CommitChangelistDialog2" timestamp="1613566172681">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.25.1440.816@0.25.1440.816" timestamp="1613565943644" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1613565943643">
+    <state x="313" y="31" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1613566172681" />
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom" timestamp="1613631771382">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.25.1440.816@0.25.1440.816" timestamp="1613565943643" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1613565943643">
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.25.1440.816@0.25.1440.816" timestamp="1613631771382" />
+    <state width="1398" height="312" key="GridCell.Tab.0.center" timestamp="1613631771382">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.25.1440.816@0.25.1440.816" timestamp="1613565943643" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1613565943644">
+    <state width="1398" height="312" key="GridCell.Tab.0.center/0.25.1440.816@0.25.1440.816" timestamp="1613631771382" />
+    <state width="1398" height="312" key="GridCell.Tab.0.left" timestamp="1613631771381">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.25.1440.816@0.25.1440.816" timestamp="1613565943644" />
+    <state width="1398" height="312" key="GridCell.Tab.0.left/0.25.1440.816@0.25.1440.816" timestamp="1613631771381" />
+    <state width="1398" height="312" key="GridCell.Tab.0.right" timestamp="1613631771382">
+      <screen x="0" y="25" width="1440" height="816" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.right/0.25.1440.816@0.25.1440.816" timestamp="1613631771382" />
+    <state x="506" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613633271294">
+      <screen x="0" y="25" width="1440" height="816" />
+    </state>
+    <state x="506" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.816@0.25.1440.816" timestamp="1613633271294" />
     <state x="385" y="165" width="670" height="676" key="search.everywhere.popup" timestamp="1613561312425">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
@@ -183,7 +202,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BlockChain$NodeMessage.coverage" NAME="NodeMessage Coverage Results" MODIFIED="1613560648663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BlockChain$TrfNode.coverage" NAME="TrfNode Coverage Results" MODIFIED="1613564515241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BlockChain$BlockChain.coverage" NAME="BlockChain Coverage Results" MODIFIED="1613565943631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BlockChain$BlockChain.coverage" NAME="BlockChain Coverage Results" MODIFIED="1613631771367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BlockChain$Node.coverage" NAME="Node Coverage Results" MODIFIED="1613561471198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

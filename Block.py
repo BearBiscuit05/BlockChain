@@ -9,6 +9,8 @@ import hashlib
 from NodeMessage import NodeMessage
 from NodeMessage import InvalidMessage
 from Node import Node
+from TraMessage import TraMessage
+
 
 class Block:
     NUM = 0
@@ -81,6 +83,8 @@ if __name__ == '__main__':
         # m1.data = "kkkk"
         block.messagelist[1] = m3
         block.validate()
+
+
 
     except InvalidMessage as e:
         print(e)
